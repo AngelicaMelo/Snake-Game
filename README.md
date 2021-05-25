@@ -1,2 +1,2 @@
 # Snake-Game
-Aula de  Html - Jogo snake game
+Aula Recriando o jogo da cobrinha com JavaScript
